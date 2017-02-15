@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="money">
+        <item>112.7</item>
+        <item>115.7</item>
+        <item>132.7</item>
+        <item>175.7</item>
+        <item>191.7</item>
+        <item>200.7</item>
+        <item>209.7</item>
+        <item>241.7</item>
+        <item>257.7</item>
+        <item>273.7</item>
+        <item>282.7</item>
+    </string-array>
+</resources>
